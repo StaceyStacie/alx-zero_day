@@ -1,1 +1,1 @@
-My first readme
+This readme is my first successful attempt
